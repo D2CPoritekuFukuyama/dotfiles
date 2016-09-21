@@ -1,0 +1,2 @@
+卒研用Raspberry piの設定ファイル群です。
+cloneしてdotfilesLink.shを実行すれば適用されます。
